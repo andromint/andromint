@@ -1,0 +1,20 @@
+
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body{
+  font-family:monospace;
+  font-size:16px;
+}
+
+#brand{
+  padding:10px;
+}
+
+#brand > #name{
+  display:inline;
+  color:#335588;
+}
